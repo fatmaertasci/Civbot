@@ -221,7 +221,3 @@ Not: Paket sürümleri, proje ile test edilmiş en son kararlı sürümlerdir.
 3. Değişikliklerinizi commit edin: `git commit -m 'Yeni özellik: Özellik açıklaması'`
 4. Branch'inizi push edin: `git push origin özellik/YeniÖzellik`
 5. Pull Request gönderin
-
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için repo içindeki `LICENSE` dosyasına bakın.   
