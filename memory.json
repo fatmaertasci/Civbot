@@ -1,0 +1,362 @@
+[
+    {
+        "role": "user",
+        "content": "selam",
+        "ts": "2025-10-14T08:01:34.069152"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Size nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T08:01:34.069152"
+    },
+    {
+        "role": "user",
+        "content": "naber",
+        "ts": "2025-10-14T08:01:43.366791"
+    },
+    {
+        "role": "assistant",
+        "content": "İyiyim, teşekkürler! Size nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T08:01:43.366791"
+    },
+    {
+        "role": "user",
+        "content": "bana söyleyebileceğin en ilginç bilgi",
+        "ts": "2025-10-14T08:02:01.169300"
+    },
+    {
+        "role": "assistant",
+        "content": "Okyanusların yaklaşık %80'i hala keşfedilmemiş durumda.",
+        "ts": "2025-10-14T08:02:01.169300"
+    },
+    {
+        "role": "user",
+        "content": "merhaba",
+        "ts": "2025-10-14T08:04:50.116826"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T08:04:50.116826"
+    },
+    {
+        "role": "user",
+        "content": "bana bir civ cümlesi bırak",
+        "ts": "2025-10-14T08:05:05.863698"
+    },
+    {
+        "role": "assistant",
+        "content": "Bütün insanlar eşit yaratılmıştır.",
+        "ts": "2025-10-14T08:05:05.863698"
+    },
+    {
+        "role": "user",
+        "content": "2 + 2",
+        "ts": "2025-10-14T08:05:14.898973"
+    },
+    {
+        "role": "assistant",
+        "content": "2 + 2 = 4",
+        "ts": "2025-10-14T08:05:14.898973"
+    },
+    {
+        "role": "user",
+        "content": "merhaba",
+        "ts": "2025-10-14T08:06:46.293966"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Size nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T08:06:46.293966"
+    },
+    {
+        "role": "user",
+        "content": "dünyanın harikalarını açıkla",
+        "ts": "2025-10-14T08:07:05.572345"
+    },
+    {
+        "role": "assistant",
+        "content": "\"Dünyanın Harikaları\" terimi zaman içinde değişiklik göstermiştir ve genellikle insanlık tarafından inşa edilmiş veya doğa tarafından oluşturulmuş olağanüstü yapıları ifade eder. İşte en bilinen listelerden bazıları:\n\n*   **Antik Dünyanın Yedi Harikası:** Bu liste klasik antik çağda en olağanüstü insan yapımı eserleri vurgular ve şunları içerir: Giza Piramidi, Babil'in Asma Bahçeleri, Zeus Heykeli, Artemis Tapınağı, Halikarnas Mozolesi, Rodos Heykeli ve İskenderiye Feneri. Bunların çoğu artık var olmamasına rağmen, Giza Piramidi hala ayakta duruyor.\n*   **Ortaçağ'ın Yedi Harikası:** Bu liste daha Avrupa merkezlidir ve Kolezyum, Katakomblar, Ayasofya, Pisa Kulesi, Çin Seddi, Porcelan Kulesi ve Tac Mahal'i içerir.\n*   **Yeni Dünyanın Yedi Harikası:** 2007'de yapılan bir ankete göre seçilen bu liste, antik dünyanın harikalarının çoğunun var olmaması nedeniyle derlenmiştir. Kolezyum, Çin Seddi, Petra, Kurtarıcı İsa Heykeli, Machu Picchu, Chichen Itza ve Tac Mahal'i içerir.\n\nDünyanın Harikaları, insan yaratıcılığının ve inşa yeteneğinin ve ayrıca dünyanın doğal güzelliğinin bir göstergesidir.",
+        "ts": "2025-10-14T08:07:05.572345"
+    },
+    {
+        "role": "user",
+        "content": "merhaba",
+        "ts": "2025-10-14T08:30:08.974059"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Size nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T08:30:08.974059"
+    },
+    {
+        "role": "user",
+        "content": "merhaba",
+        "ts": "2025-10-14T08:31:55.901330"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T08:31:55.901330"
+    },
+    {
+        "role": "user",
+        "content": "merhaba",
+        "ts": "2025-10-14T08:36:35.769886"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Size nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T08:36:35.769886"
+    },
+    {
+        "role": "user",
+        "content": "merhaba",
+        "ts": "2025-10-14T08:40:12.605797"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Size nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T08:40:12.605797"
+    },
+    {
+        "role": "user",
+        "content": "merhaba",
+        "ts": "2025-10-14T08:50:08.024712"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T08:50:08.024712"
+    },
+    {
+        "role": "user",
+        "content": "nasılsın",
+        "ts": "2025-10-14T08:50:21.275742"
+    },
+    {
+        "role": "assistant",
+        "content": "Ben iyiyim, teşekkür ederim! Size nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T08:50:21.275742"
+    },
+    {
+        "role": "user",
+        "content": "uygulamam nasıl görünüyor",
+        "ts": "2025-10-14T08:50:36.873385"
+    },
+    {
+        "role": "assistant",
+        "content": "Uygulamanızın nasıl göründüğünü bana göstermek için bir ekran görüntüsü gönderebilirsiniz.",
+        "ts": "2025-10-14T08:50:36.873385"
+    },
+    {
+        "role": "user",
+        "content": "nasıl göndereceğim",
+        "ts": "2025-10-14T08:50:56.957451"
+    },
+    {
+        "role": "assistant",
+        "content": "Lütfen göndermek istediğiniz şeyin ne olduğunu belirtir misiniz (örneğin, bir e-posta, bir mektup, bir paket, vb.). Ayrıca, kime göndermek istediğiniz ve sahip olabileceğiniz ek bağlamlar hakkında ne kadar bilgi verirseniz, size o kadar yardımcı olabilirim.",
+        "ts": "2025-10-14T08:50:56.957451"
+    },
+    {
+        "role": "user",
+        "content": "merhaba",
+        "ts": "2025-10-14T12:07:48.371799"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Size nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T12:07:48.371799"
+    },
+    {
+        "role": "user",
+        "content": "nasılsın",
+        "ts": "2025-10-14T12:08:01.077423"
+    },
+    {
+        "role": "assistant",
+        "content": "Ben iyiyim, teşekkürler! Size nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T12:08:01.077423"
+    },
+    {
+        "role": "user",
+        "content": "dünyanın en çok dinlenen şarkısı nedir",
+        "ts": "2025-10-14T12:08:26.433430"
+    },
+    {
+        "role": "assistant",
+        "content": "Spotify'a göre, dünyanın en çok dinlenen şarkısı The Weeknd'in \"Blinding Lights\" şarkısıdır.",
+        "ts": "2025-10-14T12:08:26.433430"
+    },
+    {
+        "role": "user",
+        "content": "merhaba",
+        "ts": "2025-10-14T12:43:44.238921"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Size nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T12:43:44.238921"
+    },
+    {
+        "role": "user",
+        "content": "merhaba",
+        "ts": "2025-10-14T12:43:54.605914"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Size nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T12:43:54.605914"
+    },
+    {
+        "role": "user",
+        "content": "merjaba",
+        "ts": "2025-10-14T12:44:45.566097"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Size nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T12:44:45.566097"
+    },
+    {
+        "role": "user",
+        "content": "merjaba",
+        "ts": "2025-10-14T12:44:51.177445"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Size nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T12:44:51.177445"
+    },
+    {
+        "role": "user",
+        "content": "merhjaba",
+        "ts": "2025-10-14T12:45:31.274616"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Size nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T12:45:31.274616"
+    },
+    {
+        "role": "user",
+        "content": "erferjedfdfdfddfdfdfd",
+        "ts": "2025-10-14T12:49:37.948048"
+    },
+    {
+        "role": "assistant",
+        "content": "Üzgünüm, bu sorguyu anlamıyorum.",
+        "ts": "2025-10-14T12:49:37.948048"
+    },
+    {
+        "role": "user",
+        "content": "merhaba",
+        "ts": "2025-10-14T12:56:57.245259"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T12:56:57.245259"
+    },
+    {
+        "role": "user",
+        "content": "naber",
+        "ts": "2025-10-14T16:44:29.323913"
+    },
+    {
+        "role": "assistant",
+        "content": "İyiyim, teşekkürler! Senin nasıl gidiyor?",
+        "ts": "2025-10-14T16:44:29.323913"
+    },
+    {
+        "role": "user",
+        "content": "ben de iyiyim teşekkür ederim",
+        "ts": "2025-10-14T16:44:47.310685"
+    },
+    {
+        "role": "assistant",
+        "content": "Ben de iyiyim, teşekkür ederim!",
+        "ts": "2025-10-14T16:44:47.310685"
+    },
+    {
+        "role": "user",
+        "content": "en garip bilgi",
+        "ts": "2025-10-14T16:45:06.698928"
+    },
+    {
+        "role": "assistant",
+        "content": "İneklerin en iyi arkadaşları vardır ve strese girdiklerinde ayrıldıklarında.",
+        "ts": "2025-10-14T16:45:06.698928"
+    },
+    {
+        "role": "user",
+        "content": "merhaba",
+        "ts": "2025-10-14T16:52:25.005037"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Nasıl yardımcı olabilirim?",
+        "ts": "2025-10-14T16:52:25.005037"
+    },
+    {
+        "role": "user",
+        "content": "sence aşkım beni seviyor mu",
+        "ts": "2025-10-14T16:52:46.134790"
+    },
+    {
+        "role": "assistant",
+        "content": "Üzgünüm, bunu bilemem. İletişim kurmayı ve onu nasıl hissettiğini sormayı düşünün.",
+        "ts": "2025-10-14T16:52:46.134790"
+    },
+    {
+        "role": "user",
+        "content": "merhaba",
+        "ts": "2025-10-16T17:41:02.509644"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Size nasıl yardımcı olabilirim?",
+        "ts": "2025-10-16T17:41:02.509644"
+    },
+    {
+        "role": "user",
+        "content": "kunfu pandanın en sevdiği yemek",
+        "ts": "2025-10-16T17:41:26.789861"
+    },
+    {
+        "role": "assistant",
+        "content": "Kung Fu Panda'nın en sevdiği yemek, **erişte**.",
+        "ts": "2025-10-16T17:41:26.789861"
+    },
+    {
+        "role": "user",
+        "content": "kunfu pandanın en sevdiği etli hamurun adı",
+        "ts": "2025-10-16T17:41:48.621406"
+    },
+    {
+        "role": "assistant",
+        "content": "Kung Fu Panda'nın favori etli mantısının adı Domates Soslu Domuzlu Mantı Çorbası'dır.",
+        "ts": "2025-10-16T17:41:48.621406"
+    },
+    {
+        "role": "user",
+        "content": "merhaba",
+        "ts": "2025-10-16T17:58:05.814982"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Size nasıl yardımcı olabilirim?",
+        "ts": "2025-10-16T17:58:05.814982"
+    },
+    {
+        "role": "user",
+        "content": "selam",
+        "ts": "2025-10-16T19:10:34.513744"
+    },
+    {
+        "role": "assistant",
+        "content": "Merhaba! Sana nasıl yardımcı olabilirim?",
+        "ts": "2025-10-16T19:10:34.513744"
+    }
+]
