@@ -1,4 +1,4 @@
-é# 🤖 Civbot - Yapay Zeka Destekli Sohbet Asistanı
+🤖 Civbot - Yapay Zeka Destekli Sohbet Asistanı
 
 <div align="center">
 
