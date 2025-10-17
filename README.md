@@ -18,7 +18,7 @@ Bu proje, yapay zeka teknolojilerini kullanarak kullanıcılara kişiselleştiri
 - Sohbet geçmişini güvenli bir şekilde yönetmek
 - Kullanıcı dostu ve modern bir arayüz sunmak
 
-## � Veri Seti
+## 💾 Veri Seti
 
 Proje, iki temel veri yapısı üzerine inşa edilmiştir:
 
